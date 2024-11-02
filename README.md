@@ -1,1 +1,2 @@
 # Amazon-Sales-Dashboard
+### This Excel-based Sales Dashboard visualizes key metrics like revenue and profit, showcasing detailed order insights and category performance. It features user-friendly, dynamic visualizations for effective analysis and informed decision-making.
